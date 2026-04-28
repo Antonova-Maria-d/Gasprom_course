@@ -1,0 +1,5 @@
+outs:
+- md5: c512b2ece703cb9de3c453d8c3095eb2
+  size: 9023770
+  hash: md5
+  path: realty_clean.parquet
