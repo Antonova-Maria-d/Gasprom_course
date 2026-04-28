@@ -1,2 +1,10 @@
 "__pypache__" 
 ".venv/" 
+/realty_clean.parquet
+"" 
+"# DVC" 
+".dvc/cache/" 
+".dvc/tmp/" 
+"*.parquet" 
+"*.csv" 
+"!realty_clean.parquet.dvc" 
